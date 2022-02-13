@@ -12,7 +12,7 @@ I love the entire process of developing creative websites.
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/evgenii-ivanov-787700160/"><img align="left" src="images/linkedin.svg" alt="Evgenii Ivanov | LinkedIn" width="21px"/></a>
-<a href="mailto:evgenii7.ivanov@yandex.ru"><img align="left" src="images
+<a href="mailto:evgenii7.ivanov@yandex.ru"><img align="left" src="images/gmail-logo-2561.svg" alt="Evgenii Ivanov | Email" width="21px"/>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 [![EvgeniiI7 github stats](https://github-readme-stats.vercel.app/api?username=EvgeniiI7)](https://github.com/EvgeniiI7) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvgeniiI7&layout=compact)](https://github.com/EvgeniiI7)
