@@ -6,5 +6,5 @@
   I’m currently working on something cool!
 </p>
 </div>
-![211903_github_social_icon](https://user-images.githubusercontent.com/88345845/153771057-d795c58f-2469-4652-a950-dd15a1285a06.png)
-![211910_social_linkedin_icon](https://user-images.githubusercontent.com/88345845/153771059-1baaab8e-a6ec-4c59-a35c-0d284d2a3b68.png)
+![git](https://user-images.githubusercontent.com/88345845/153771124-6b1624f8-f7a8-44a9-bf15-1c0c79e3f8af.jpg)
+![ln](https://user-images.githubusercontent.com/88345845/153771125-c0697169-7502-4788-bda0-3aa2072e4460.jpg)
