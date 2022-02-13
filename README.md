@@ -16,7 +16,7 @@ I love the entire process of developing creative websites.
   
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-[![EvgeniiI7 github stats](https://github-readme-stats.vercel.app/api?username=EvgeniiI7)](https://github.com/EvgeniiI7) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvgeniiI7&layout=compact)](https://github.com/EvgeniiI7)
+[![EvgeniiI7 github stats](https://github-readme-stats.vercel.app/api?username=EvgeniiI7)](https://github.com/EvgeniiI7)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvgeniiI7&layout=compact)](https://github.com/EvgeniiI7)
 
 
 ## 🔭 I'm currently working on 
