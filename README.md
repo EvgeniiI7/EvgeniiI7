@@ -8,7 +8,9 @@ I'm a Full-Stack Web Developer 💻, and Designer 🎨!
 </h2> 
 </div>
 I love the entire process of developing creative websites.
+
 ### 🤝 Connect with me:
+
 <a href="https://www.linkedin.com/in/evgenii-ivanov-787700160/"><img align="left" src="images/linkedin.svg" alt="Evgenii Ivanov | LinkedIn" width="21px"/></a>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
