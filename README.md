@@ -14,6 +14,7 @@ I love the entire process of developing creative websites.
 <a href="https://www.linkedin.com/in/evgenii-ivanov-787700160/"><img align="left" src="images/linkedin.svg" alt="Evgenii Ivanov | LinkedIn" width="21px"/></a>
 <a href="mailto:evgenii7.ivanov@yandex.ru"><img align="left" src="images/gmail-logo-2561.svg" alt="Evgenii Ivanov | Email" width="21px"/>
   
+  
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 [![EvgeniiI7 github stats](https://github-readme-stats.vercel.app/api?username=EvgeniiI7)](https://github.com/EvgeniiI7) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvgeniiI7&layout=compact)](https://github.com/EvgeniiI7)
@@ -24,14 +25,8 @@ I love the entire process of developing creative websites.
 - MongoDB, Express, React, Node (MERN)
 
 ## 💼 Technical Skills
+  
 
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&color=CC342D)
-![](https://img.shields.io/badge/Code-Ruby_on_Rails-informational?style=flat&logo=Ruby-On-Rails&color=CC0000)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
-![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
-![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
 </br>
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&color=FF6C37)
@@ -41,7 +36,7 @@ I love the entire process of developing creative websites.
 
 Databases
 
-![](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![mongodb](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 Frameworks, Platforms and Libraries
@@ -52,11 +47,13 @@ Frameworks, Platforms and Libraries
  ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
  ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+ ![React.js](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
  ![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-%23C04392?style=for-the-badge)
+ ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
  
  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
  ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+ ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
  
  Languages
  
