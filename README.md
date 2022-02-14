@@ -25,9 +25,7 @@ I love the entire process of developing creative websites.
 - MongoDB, Express, React, Node (MERN)
 
 ## 💼 Technical Skills
-  
-
-</br>
+ 
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&color=FF6C37)
 ![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
