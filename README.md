@@ -26,18 +26,7 @@ I love the entire process of developing creative websites.
 
 ## 💼 Technical Skills
   
-* MongoDB
-* Apollo-Server-Express
-* Mongoose
-* GraphQL
-* JavaScript
-* mySQl
-* NodeJS
-* React JS
-* Express-js
-* react-hooks
-* sequelize
-  
+
 
  
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
@@ -50,6 +39,7 @@ Databases
 
 ![mongodb](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![JawsDB](https://img.shields.io/badge/DB-JawsDB-green)
 
 Frameworks, Platforms and Libraries
 
