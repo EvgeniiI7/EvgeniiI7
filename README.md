@@ -25,6 +25,20 @@ I love the entire process of developing creative websites.
 - MongoDB, Express, React, Node (MERN)
 
 ## 💼 Technical Skills
+  
+* MongoDB
+* Apollo-Server-Express
+* Mongoose
+* GraphQL
+* JavaScript
+* mySQl
+* NodeJS
+* React JS
+* Express-js
+* react-hooks
+* sequelize
+  
+
  
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&color=FF6C37)
